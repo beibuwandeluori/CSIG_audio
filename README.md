@@ -1,6 +1,6 @@
 # FMFCC Audio Deepfake Detection Solution
 This repo provides an solution for the [多媒体伪造取证大赛](http://fmfcc.net). 
-Our solution achieve the 1st in the Audio Deepfake Detection track .
+Our solution achieve the 1st in the Audio Deepfake Detection track.
 The ranking can be seen [here](http://fmfcc.net/contest-introduction)
 
 ## Authors
