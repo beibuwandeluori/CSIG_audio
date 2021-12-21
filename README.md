@@ -9,9 +9,9 @@ Institution: Shenzhen Key Laboratory of Media Information Content Security(MICS)
 Team name: Forensics_SZU  
 
 Username: 
-- [陈保营](https://github.com/beibuwandeluori) email: 1900271059@email.szu.edu.cn
-- [黄远坤]
-- [梅思玉]
+- [Baoying Chen](https://github.com/beibuwandeluori) email: 1900271059@email.szu.edu.cn
+- [Yuankun Huang]
+- [Siyu Mei]
 ## Pipeline
 ### EfficientNet-B2 + mel features (不同mel参数的训练两个模型ensemble)
 ## Requirements:
